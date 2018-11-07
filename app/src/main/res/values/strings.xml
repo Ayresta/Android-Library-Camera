@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Polimoji</string>
+    <string name="saved_message" />
+    <string name="error" />
+</resources>
